@@ -1,3 +1,5 @@
+package Java;
+
 public class Patterns {
 
     public  static void simplePattern(int rows,int cols){
@@ -152,7 +154,6 @@ public class Patterns {
         }
 
     }
-
 
     public static void main(String[] args) {
 //        simplePattern(4,5);
